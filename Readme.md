@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/LabelStyle/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LabelStyle/MainWindow.xaml))
+<!-- default file list end -->
 # How to change styles of labels for individual layout items
 
 
